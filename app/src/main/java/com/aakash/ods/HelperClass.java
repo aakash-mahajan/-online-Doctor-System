@@ -38,7 +38,7 @@ public class HelperClass extends AsyncTask<String,Void,String>
     @Override
     protected String doInBackground(String... params) {
 
-        String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+        String login_url = "Enter your 000webhost URl here";
 
             try {
 

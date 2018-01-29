@@ -62,7 +62,7 @@ public class DocPage extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/DoctorAppointment.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
                     URL url = new URL(login_url);
                     HttpURLConnection httpURLConnection = (HttpURLConnection)url.openConnection();

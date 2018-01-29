@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class RegisterRequest extends StringRequest {
 
-    private static final   String REGISTER_REQUEST_URL="https://rockstarhariom.000webhostapp.com/Register.php";
+    private static final   String REGISTER_REQUEST_URL="Enter your 000webhost URl here";
     private Map<String,String> params;
 
     public RegisterRequest(String name, String email, String phone, String password , Response.Listener<String>listener){

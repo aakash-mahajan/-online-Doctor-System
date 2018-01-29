@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class LoginRequest extends StringRequest {
 
-    private static final   String LOGIN_REQUEST_URL="https://rockstarhariom.000webhostapp.com/Login.php";
+    private static final   String LOGIN_REQUEST_URL="Enter your 000webhost URl here";
     private Map<String,String> params;
     public static String name;
     public LoginRequest(String name, String password , Response.Listener<String>listener){

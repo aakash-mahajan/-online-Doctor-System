@@ -85,7 +85,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
                     URL url = new URL(login_url);
                     HttpURLConnection httpURLConnection = (HttpURLConnection)url.openConnection();
@@ -160,7 +160,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -236,7 +236,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -312,7 +312,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -388,7 +388,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -464,7 +464,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -540,7 +540,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -616,7 +616,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -692,7 +692,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -768,7 +768,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -844,7 +844,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
@@ -920,7 +920,7 @@ public class BookAppoint extends AppCompatActivity {
             @Override
             protected String doInBackground(String... params) {
 
-                String login_url = "https://rockstarhariom.000webhostapp.com/Appoint.php";
+                String login_url = "Enter your 000webhost URl here";
                 try {
 
                     URL url = new URL(login_url);
